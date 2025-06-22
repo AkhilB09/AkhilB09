@@ -76,7 +76,7 @@ Machine Learning • Deep Learning • Generative AI • Conversational AI • S
 ### 🔥 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/AkhilB09/Notes2Nuggets"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilB09&repo=Notes2Nuggets&theme=tokyonight&hide_border=true" /></a>
+  <a href="[https://github.com/AkhilB09/Notes2Nuggets](https://github.com/AkhilB09/Punjabi-News-Sentiment-Analysis)"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilB09&repo=Notes2Nuggets&theme=tokyonight&hide_border=true" /></a>
   
 </p>
 
